@@ -1,11 +1,11 @@
 # Server Side Programming exercises (Python, Flask), Part IV.
 
-  * [Flask QuickStart](http://flask.pocoo.org/docs/0.12/quickstart/)
+  * [Flask QuickStart](https://flask.palletsprojects.com/en/stable/quickstart/)
   * [Jinja Templates](http://jinja.pocoo.org/docs/2.9/templates/)
 
 
 ## Exercise #0: Try the example
-Try to run the cookies [example](../../../examples/python/flask/6_cookies).
+Try to run the cookies [example](../../examples/6_cookies/).
 
 ## Exercise #1: Remembering user details
 
