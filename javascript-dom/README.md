@@ -1,4 +1,4 @@
-# Basic JavaScript resources
+# JavaScript DOM&Events resources
 
 ### Examples:
 
