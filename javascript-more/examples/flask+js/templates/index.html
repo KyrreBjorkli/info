@@ -28,7 +28,8 @@
 </ul>
 <script>
     let pl = document.getElementById("playlist");
-    playlist = JSON.parse(pl.dataset.playlist);
+    let data = pl.dataset.playlist;
+    playlist = JSON.parse(data);
     showPlaylist();
 </script>
 </body>
